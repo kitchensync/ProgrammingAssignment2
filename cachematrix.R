@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+## The functions below helped us to either compute the inverse
+## of a matrix, or if the result is already computed before, 
+## we will return the cached value. 
 
 ## makeCacheMatrix function creates a special "matrix" object that can 
 ## cache its inverse
